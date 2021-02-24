@@ -1,0 +1,67 @@
+2021-02-23 04:54:12,165 INFO root MainThread : Appel du main pour la script de scrapping - logged in successfully
+2021-02-23 04:54:12,165 INFO root MainThread : instace la classe indeed
+2021-02-23 04:54:12,165 INFO root MainThread : on initialise la classe indeed
+2021-02-23 04:54:12,165 INFO root MainThread : on recupere le contenur de l url passé comme parametre du methode get requests
+2021-02-23 04:54:12,499 INFO root MainThread : on utilise la librerie BeautifulSoup pour recuperer le contenu de la page
+2021-02-23 04:54:12,637 INFO root MainThread : on execute les processus pour obtenir les informations sur le site indeed
+2021-02-23 04:54:27,254 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 04:54:27,276 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 04:56:12,644 INFO root MainThread : Appel du main pour la script de scrapping - logged in successfully
+2021-02-23 04:56:12,646 INFO root MainThread : instace la classe indeed
+2021-02-23 04:56:12,646 INFO root MainThread : on initialise la classe indeed
+2021-02-23 04:56:12,646 INFO root MainThread : on recupere le contenur de l url passé comme parametre du methode get requests
+2021-02-23 04:56:13,015 INFO root MainThread : on utilise la librerie BeautifulSoup pour recuperer le contenu de la page
+2021-02-23 04:56:13,152 INFO root MainThread : on execute les processus pour obtenir les informations sur le site indeed
+2021-02-23 04:56:35,934 INFO root MainThread : getting salaries: start
+2021-02-23 04:56:35,945 INFO root MainThread : getting salaries: end
+2021-02-23 04:56:35,945 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 04:56:35,962 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 05:16:58,827 INFO root MainThread : Appel du main pour la script de scrapping - logged in successfully
+2021-02-23 05:16:58,827 INFO root MainThread : instace la classe indeed
+2021-02-23 05:16:58,827 INFO root MainThread : on initialise la classe indeed
+2021-02-23 05:16:58,827 INFO root MainThread : on recupere le contenur de l url passé comme parametre du methode get requests
+2021-02-23 05:16:59,113 INFO root MainThread : on utilise la librerie BeautifulSoup pour recuperer le contenu de la page
+2021-02-23 05:22:44,666 INFO root MainThread : Appel du main pour la script de scrapping - logged in successfully
+2021-02-23 05:22:44,668 INFO root MainThread : instace la classe indeed
+2021-02-23 05:22:44,668 INFO root MainThread : on initialise la classe indeed
+2021-02-23 05:22:44,668 INFO root MainThread : on recupere le contenur de l url passé comme parametre du methode get requests
+2021-02-23 05:22:44,998 INFO root MainThread : on utilise la librerie BeautifulSoup pour recuperer le contenu de la page
+2021-02-23 05:22:45,066 INFO root MainThread : on execute les processus pour obtenir les informations sur le site indeed
+2021-02-23 05:23:00,212 INFO root MainThread : getting salaries: start
+2021-02-23 05:23:00,226 INFO root MainThread : getting salaries: end
+2021-02-23 05:23:00,226 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 05:23:00,249 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 06:50:32,819 INFO root MainThread : Appel du main pour la script de scrapping - logged in successfully
+2021-02-23 06:50:32,820 INFO root MainThread : instace la classe indeed
+2021-02-23 06:50:32,820 INFO root MainThread : on initialise la classe indeed
+2021-02-23 06:50:32,820 INFO root MainThread : on recupere le contenur de l url passé comme parametre du methode get requests
+2021-02-23 06:50:33,294 INFO root MainThread : on utilise la librerie BeautifulSoup pour recuperer le contenu de la page
+2021-02-23 06:50:33,412 INFO root MainThread : on execute les processus pour obtenir les informations sur le site indeed
+2021-02-23 06:50:52,369 INFO root MainThread : getting salaries: start
+2021-02-23 06:50:52,374 INFO root MainThread : getting salaries: end
+2021-02-23 06:50:52,374 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 06:50:52,394 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 06:52:21,813 INFO root MainThread : Appel du main pour la script de scrapping - logged in successfully
+2021-02-23 06:52:21,814 INFO root MainThread : instace la classe indeed
+2021-02-23 06:52:21,814 INFO root MainThread : on initialise la classe indeed
+2021-02-23 06:52:21,814 INFO root MainThread : on recupere le contenur de l url passé comme parametre du methode get requests
+2021-02-23 06:52:22,130 INFO root MainThread : on utilise la librerie BeautifulSoup pour recuperer le contenu de la page
+2021-02-23 06:52:22,264 INFO root MainThread : on execute les processus pour obtenir les informations sur le site indeed
+2021-02-23 06:52:36,172 INFO root MainThread : getting salaries: start
+2021-02-23 06:52:36,177 INFO root MainThread : getting salaries: end
+2021-02-23 06:52:36,177 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 06:52:36,206 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 06:55:58,492 INFO root MainThread : Appel du main pour la script de scrapping - logged in successfully
+2021-02-23 06:55:58,492 INFO root MainThread : instace la classe indeed
+2021-02-23 06:55:58,492 INFO root MainThread : on initialise la classe indeed
+2021-02-23 06:55:58,492 INFO root MainThread : on recupere le contenur de l url passé comme parametre du methode get requests
+2021-02-23 06:55:58,777 INFO root MainThread : on utilise la librerie BeautifulSoup pour recuperer le contenu de la page
+2021-02-23 06:55:58,907 INFO root MainThread : on execute les processus pour obtenir les informations sur le site indeed
+2021-02-23 06:56:14,212 INFO root MainThread : getting salaries: start
+2021-02-23 06:56:14,217 INFO root MainThread : getting salaries: end
+2021-02-23 06:56:14,219 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 06:56:14,249 INFO root MainThread : on cree une instance de la classe conn_bd que realise la connexion avec la BDD
+2021-02-23 09:01:45,107 INFO root MainThread : Appel du main pour la script de scrapping - logged in successfully
+2021-02-23 09:01:45,109 INFO root MainThread : instace la classe indeed
+2021-02-23 09:01:45,111 INFO root MainThread : on initialise la classe indeed
+2021-02-23 09:01:45,113 INFO root MainThread : on recupere le contenur de l url passé comme parametre du methode get requests

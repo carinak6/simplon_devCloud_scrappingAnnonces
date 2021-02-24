@@ -1,0 +1,1442 @@
+2021-02-18 15:43:13,776 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+2021-02-18 15:43:13,777 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 15:43:13,958 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 15:43:13,970 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-18 15:44:02,289 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-18 15:44:02,326 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 15:44:02,481 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 15:44:02,484 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-18 15:44:03,491 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-18 15:44:03,528 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 15:44:03,747 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 15:44:03,748 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-18 15:46:38,114 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4005/ (Press CTRL+C to quit)
+2021-02-18 15:46:38,115 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 15:46:38,318 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 15:46:38,319 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-18 15:48:20,939 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-18 15:48:20,972 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 15:50:59,655 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4005/ (Press CTRL+C to quit)
+2021-02-18 15:50:59,655 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 15:50:59,867 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 15:50:59,868 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-18 19:08:57,064 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4005/ (Press CTRL+C to quit)
+2021-02-18 19:08:57,065 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 19:08:57,273 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 19:08:57,274 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-18 19:19:54,242 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-18 19:19:54,301 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 19:19:54,518 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 19:19:54,523 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-18 19:22:22,120 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4005/ (Press CTRL+C to quit)
+2021-02-18 19:22:22,121 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 19:22:22,318 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 19:22:22,319 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-18 19:40:06,109 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4005/ (Press CTRL+C to quit)
+2021-02-18 19:40:06,114 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 19:40:06,308 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 19:40:06,310 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-18 20:08:07,246 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4005/ (Press CTRL+C to quit)
+2021-02-18 20:08:07,248 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-18 20:08:07,428 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-18 20:08:07,429 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:12:37,904 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4005/ (Press CTRL+C to quit)
+2021-02-19 04:12:37,905 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:12:38,090 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:12:38,091 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:14:59,285 INFO werkzeug MainThread :  * Running on http://0.0.0.0:4005/ (Press CTRL+C to quit)
+2021-02-19 04:14:59,287 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:14:59,481 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:14:59,484 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:17:29,620 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:17:29,657 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:17:29,846 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:17:29,847 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:17:32,887 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:17:32,927 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:17:33,202 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:17:33,203 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:17:52,671 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-19 04:17:52,672 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:17:52,853 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:17:52,858 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:18:03,658 INFO app Thread-2 : HOLA entra à logger logged in successfully
+2021-02-19 04:18:03,659 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 04:18:03] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-19 04:18:03,947 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 04:18:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-19 04:18:25,970 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 04:18:25] "[37mGET /test HTTP/1.1[0m" 200 -
+2021-02-19 04:33:30,768 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:33:30,809 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:35:57,608 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-19 04:35:57,609 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:35:57,799 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:35:57,802 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:36:10,125 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 04:36:10] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+2021-02-19 04:36:10,240 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 04:36:10] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 04:36:10,240 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 04:36:10] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 04:36:10,243 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 04:36:10] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 04:36:10,610 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 04:36:10] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 04:36:10,690 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 04:36:10] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 04:37:12,812 INFO werkzeug Thread-8 : 172.17.0.1 - - [19/Feb/2021 04:37:12] "[33mGET /test/page_number=200 HTTP/1.1[0m" 404 -
+2021-02-19 04:37:35,098 INFO werkzeug Thread-10 : 172.17.0.1 - - [19/Feb/2021 04:37:35] "[33mGET /test/?page_number=200 HTTP/1.1[0m" 404 -
+2021-02-19 04:37:41,990 INFO werkzeug Thread-13 : 172.17.0.1 - - [19/Feb/2021 04:37:41] "[37mGET /test?page_number=200 HTTP/1.1[0m" 200 -
+2021-02-19 04:38:03,611 INFO werkzeug Thread-14 : 172.17.0.1 - - [19/Feb/2021 04:38:03] "[37mGET /test?page_number=200 HTTP/1.1[0m" 200 -
+2021-02-19 04:38:03,884 INFO werkzeug Thread-15 : 172.17.0.1 - - [19/Feb/2021 04:38:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-19 04:39:15,241 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:39:15,287 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:39:15,482 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:39:15,483 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:39:27,567 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:39:27,620 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:39:27,852 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:39:27,853 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:40:34,911 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 04:40:34] "[37mGET /test?page_number=200 HTTP/1.1[0m" 200 -
+2021-02-19 04:40:39,984 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 04:40:39] "[37mGET /test?page_number=400 HTTP/1.1[0m" 200 -
+2021-02-19 04:43:43,496 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:43:43,564 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:43:43,783 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:43:43,784 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:45:10,733 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:45:10,774 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:45:11,076 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:45:11,080 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:47:12,891 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:47:12,932 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:47:13,174 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:47:13,175 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:47:32,269 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 04:47:32] "[35m[1mGET /offer/indeed HTTP/1.1[0m" 500 -
+2021-02-19 04:47:32,422 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 04:47:32] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 04:47:32,425 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 04:47:32] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 04:47:32,448 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 04:47:32] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 04:47:32,793 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 04:47:32] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 04:47:32,897 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 04:47:32] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 04:48:21,674 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:48:21,714 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:48:21,906 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:48:21,912 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:48:22,929 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:48:22,965 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:48:23,148 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:48:23,158 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:48:24,170 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:48:24,231 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:48:24,511 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:48:24,513 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:48:35,548 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 04:48:35] "[35m[1mGET /offer/indeed HTTP/1.1[0m" 500 -
+2021-02-19 04:48:35,661 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 04:48:35] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 04:48:35,672 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 04:48:35] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 04:48:35,674 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 04:48:35] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 04:48:35,910 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 04:48:35] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 04:54:49,942 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:54:49,996 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:54:50,173 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:54:50,174 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:54:52,203 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:54:52,256 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:54:52,483 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:54:52,488 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:54:56,772 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 04:54:56] "[35m[1mGET /offer/indeed HTTP/1.1[0m" 500 -
+2021-02-19 04:54:56,895 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 04:54:56] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 04:54:56,908 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 04:54:56] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 04:54:56,923 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 04:54:56] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 04:54:57,104 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 04:54:57] "[37mGET /offer/indeed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 04:56:16,122 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:56:16,160 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:56:16,417 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:56:16,419 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:56:17,437 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:56:17,475 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:56:17,699 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:56:17,703 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:56:18,718 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:56:18,787 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:56:19,109 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:56:19,111 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:56:22,921 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 04:56:22] "[37mGET /offer/indeed HTTP/1.1[0m" 200 -
+2021-02-19 04:57:11,441 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:57:11,491 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:57:11,687 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:57:11,688 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:57:20,757 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:57:20,798 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:57:21,003 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:57:21,004 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:57:23,030 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 04:57:23,066 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 04:57:23,299 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 04:57:23,301 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 04:57:27,267 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 04:57:27] "[37mGET /offer/indeed HTTP/1.1[0m" 200 -
+2021-02-19 05:27:18,957 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:27:18,992 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:27:19,200 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:27:19,201 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 05:27:21,223 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:27:21,266 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:27:21,477 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:27:21,478 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 05:27:33,014 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 05:27:33] "[37mGET /offer/monster HTTP/1.1[0m" 200 -
+2021-02-19 05:28:19,917 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:28:19,967 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:28:20,201 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:28:20,202 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 05:28:28,249 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:28:28,286 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:28:28,486 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:28:28,487 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 05:28:29,504 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:28:29,544 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:28:29,738 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:28:29,739 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 05:28:30,755 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:28:30,817 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:28:31,133 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:28:31,137 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 05:28:34,656 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 05:28:34] "[35m[1mGET /offer/monster HTTP/1.1[0m" 500 -
+2021-02-19 05:28:34,751 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 05:28:34] "[37mGET /offer/monster?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 05:28:34,774 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 05:28:34] "[37mGET /offer/monster?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 05:28:34,777 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 05:28:34] "[37mGET /offer/monster?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 05:28:35,037 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 05:28:35] "[37mGET /offer/monster?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 05:28:35,117 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 05:28:35] "[37mGET /offer/monster?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 05:29:27,566 INFO werkzeug Thread-8 : 172.17.0.1 - - [19/Feb/2021 05:29:27] "[33mGET /offer?type_offre=monster HTTP/1.1[0m" 404 -
+2021-02-19 05:29:45,001 INFO werkzeug Thread-10 : 172.17.0.1 - - [19/Feb/2021 05:29:45] "[35m[1mGET /offer/type_offre=monster HTTP/1.1[0m" 500 -
+2021-02-19 05:29:45,116 INFO werkzeug Thread-12 : 172.17.0.1 - - [19/Feb/2021 05:29:45] "[37mGET /offer/type_offre=monster?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 05:29:45,121 INFO werkzeug Thread-13 : 172.17.0.1 - - [19/Feb/2021 05:29:45] "[37mGET /offer/type_offre=monster?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 05:29:45,134 INFO werkzeug Thread-14 : 172.17.0.1 - - [19/Feb/2021 05:29:45] "[37mGET /offer/type_offre=monster?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 05:29:45,392 INFO werkzeug Thread-15 : 172.17.0.1 - - [19/Feb/2021 05:29:45] "[37mGET /offer/type_offre=monster?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 05:29:45,486 INFO werkzeug Thread-16 : 172.17.0.1 - - [19/Feb/2021 05:29:45] "[37mGET /offer/type_offre=monster?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 05:29:53,805 INFO werkzeug Thread-17 : 172.17.0.1 - - [19/Feb/2021 05:29:53] "[35m[1mGET /offer/monster HTTP/1.1[0m" 500 -
+2021-02-19 05:29:53,956 INFO werkzeug Thread-18 : 172.17.0.1 - - [19/Feb/2021 05:29:53] "[37mGET /offer/monster?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 05:29:53,974 INFO werkzeug Thread-19 : 172.17.0.1 - - [19/Feb/2021 05:29:53] "[37mGET /offer/monster?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 05:29:53,976 INFO werkzeug Thread-20 : 172.17.0.1 - - [19/Feb/2021 05:29:53] "[37mGET /offer/monster?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 05:29:54,144 INFO werkzeug Thread-21 : 172.17.0.1 - - [19/Feb/2021 05:29:54] "[37mGET /offer/monster?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 05:30:48,976 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:30:49,017 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:30:49,204 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:30:49,205 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 05:30:50,219 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:30:50,261 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:30:50,469 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:30:50,470 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 05:31:04,557 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 05:31:04] "[37mGET /offer/monster HTTP/1.1[0m" 200 -
+2021-02-19 05:34:42,043 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:34:42,079 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:34:42,241 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:34:42,242 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 05:35:55,855 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 05:35:55,901 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 05:35:56,081 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 05:35:56,089 INFO werkzeug MainThread :  * Debugger PIN: 542-253-720
+2021-02-19 14:38:05,680 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-19 14:38:05,683 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:38:06,098 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:38:06,111 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:38:52,941 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 14:38:52] "[37mGET /search/city/Epinay HTTP/1.1[0m" 200 -
+2021-02-19 14:38:53,280 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 14:38:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-02-19 14:39:05,531 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 14:39:05,576 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:39:06,020 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:39:06,022 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:39:22,122 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 14:39:22] "[35m[1mGET /search/city/Epinay HTTP/1.1[0m" 500 -
+2021-02-19 14:39:22,315 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 14:39:22] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 14:39:22,321 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 14:39:22] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 14:39:22,336 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 14:39:22] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 14:39:22,702 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 14:39:22] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 14:39:22,788 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 14:39:22] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 14:40:07,479 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 14:40:07,558 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:40:07,903 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:40:07,905 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:40:08,920 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 14:40:08,993 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:40:09,324 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:40:09,325 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:40:10,345 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 14:40:10,416 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:40:10,778 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:40:10,778 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:40:13,960 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 14:40:13] "[37mGET /search/city/Epinay HTTP/1.1[0m" 200 -
+2021-02-19 14:45:11,949 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 14:45:11,992 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:45:12,250 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:45:12,251 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:45:35,409 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 14:45:35,468 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:45:35,718 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:45:35,719 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:45:52,448 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 14:45:52] "[35m[1mGET /search/city/Epinay HTTP/1.1[0m" 500 -
+2021-02-19 14:45:52,601 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 14:45:52] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 14:45:52,624 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 14:45:52] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 14:45:52,636 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 14:45:52] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 14:45:52,880 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 14:45:52] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 14:45:52,976 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 14:45:52] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 14:46:45,222 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 14:46:45,279 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:46:45,543 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:46:45,545 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:46:51,587 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 14:46:51,632 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:46:51,863 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:46:51,864 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:46:57,905 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 14:46:57,948 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 14:46:58,210 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 14:46:58,214 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 14:47:10,274 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 14:47:10] "[37mGET /search/city/Epinay HTTP/1.1[0m" 200 -
+2021-02-19 14:47:35,582 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 14:47:35] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-19 14:47:42,605 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 14:47:42] "[33mGET /search/cp/Paris HTTP/1.1[0m" 404 -
+2021-02-19 14:47:53,403 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 14:47:53] "[37mGET /search/cp/93800 HTTP/1.1[0m" 200 -
+2021-02-19 15:04:05,706 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:04:05,756 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:04:06,020 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:04:06,021 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:06:11,909 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:06:11,968 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:06:12,238 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:06:12,239 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:07:37,827 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:07:37,873 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:07:38,205 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:07:38,208 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:10:40,673 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:10:40,744 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:15:48,491 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-19 15:15:48,493 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:15:48,717 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:15:48,718 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:16:09,031 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 15:16:09] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-19 15:16:09,193 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 15:16:09] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 15:16:09,202 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 15:16:09] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 15:16:09,210 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 15:16:09] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 15:16:09,577 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 15:16:09] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 15:16:09,714 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 15:16:09] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 15:17:51,671 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:17:51,713 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:17:51,966 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:17:51,968 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:18:45,370 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:18:45,423 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:18:45,696 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:18:45,697 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:18:46,718 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:18:46,768 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:18:47,111 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:18:47,116 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:19:14,548 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 15:19:14] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-19 15:19:14,665 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 15:19:14] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 15:19:14,689 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 15:19:14] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 15:19:14,690 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 15:19:14] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 15:19:14,899 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 15:19:14] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 15:22:06,660 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:22:06,703 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:22:06,948 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:22:06,949 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:22:13,012 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:22:13,066 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:22:13,335 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:22:13,336 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:22:21,421 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:22:21,462 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:22:21,686 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:22:21,688 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:23:45,331 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:23:45,371 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:23:45,602 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:23:45,605 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:23:56,695 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 15:23:56] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-19 15:24:26,900 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 15:24:26] "[37mGET /search/city/Epinay HTTP/1.1[0m" 200 -
+2021-02-19 15:28:40,829 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:28:40,874 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:28:41,133 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:28:41,135 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:28:46,605 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 15:28:46] "[37mGET /search/city/Epinay HTTP/1.1[0m" 200 -
+2021-02-19 15:31:47,618 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:31:47,659 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:31:47,921 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:31:47,923 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:32:16,141 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:32:16,192 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:32:16,499 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:32:16,501 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:32:23,362 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 15:32:23] "[37mGET /search/city/Epinay HTTP/1.1[0m" 200 -
+2021-02-19 15:32:27,737 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 15:32:27] "[37mGET /search/city/Epinay HTTP/1.1[0m" 200 -
+2021-02-19 15:52:58,911 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-19 15:52:58,912 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:52:59,181 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:52:59,182 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:53:05,442 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 15:53:05] "[35m[1mGET /search/city/Epinay HTTP/1.1[0m" 500 -
+2021-02-19 15:53:05,561 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 15:53:05] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 15:53:05,564 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 15:53:05] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 15:53:05,579 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 15:53:05] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 15:53:05,926 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 15:53:05] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 15:53:06,035 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 15:53:06] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 15:53:51,553 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:53:51,629 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:53:51,954 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:53:51,956 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:54:00,531 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 15:54:00] "[35m[1mGET /search/city/Epinay HTTP/1.1[0m" 500 -
+2021-02-19 15:54:00,649 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 15:54:00] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 15:54:00,666 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 15:54:00] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 15:54:00,669 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 15:54:00] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 15:54:00,947 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 15:54:00] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 15:55:53,017 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:55:53,060 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:55:53,283 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:55:53,286 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:55:54,309 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:55:54,358 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:55:54,616 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:55:54,625 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:55:59,573 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 15:55:59] "[35m[1mGET /search/city/Epinay HTTP/1.1[0m" 500 -
+2021-02-19 15:55:59,692 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 15:55:59] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 15:55:59,700 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 15:55:59] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 15:55:59,719 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 15:55:59] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 15:55:59,920 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 15:55:59] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 15:57:52,485 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:57:52,537 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:57:52,797 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:57:52,798 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:57:59,858 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:57:59,923 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:58:00,201 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:58:00,203 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:58:01,222 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 15:58:01,285 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 15:58:01,564 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 15:58:01,565 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 15:59:03,755 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 15:59:03] "[35m[1mGET /search/city/Epinay HTTP/1.1[0m" 500 -
+2021-02-19 15:59:03,839 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 15:59:03] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 15:59:03,842 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 15:59:03] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 15:59:03,850 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 15:59:03] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 15:59:04,112 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 15:59:04] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:00:50,840 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 16:00:50,922 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:00:51,179 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:00:51,180 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:00:55,585 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:00:55] "[35m[1mGET /search/city/Epinay HTTP/1.1[0m" 500 -
+2021-02-19 16:00:55,730 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 16:00:55] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 16:00:55,736 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 16:00:55] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 16:00:55,738 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 16:00:55] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 16:00:55,961 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 16:00:55] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:01:00,170 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 16:01:00] "[35m[1mGET /search/city/Epinay HTTP/1.1[0m" 500 -
+2021-02-19 16:01:00,278 INFO werkzeug Thread-8 : 172.17.0.1 - - [19/Feb/2021 16:01:00] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 16:01:00,297 INFO werkzeug Thread-9 : 172.17.0.1 - - [19/Feb/2021 16:01:00] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 16:01:00,299 INFO werkzeug Thread-10 : 172.17.0.1 - - [19/Feb/2021 16:01:00] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 16:01:00,448 INFO werkzeug Thread-11 : 172.17.0.1 - - [19/Feb/2021 16:01:00] "[37mGET /search/city/Epinay?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:02:18,779 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:02:18,836 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:02:19,084 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:02:19,085 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:02:20,103 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:02:20,207 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:02:20,626 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:02:20,628 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:02:21,653 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:02:21,704 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:02:22,002 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:02:22,003 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:02:27,043 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 16:02:27,102 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:02:27,347 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:02:27,349 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:02:28,368 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 16:02:28,447 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:02:28,825 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:02:28,826 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:02:29,846 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-19 16:02:29,888 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:02:30,102 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:02:30,110 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:02:38,401 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:02:38] "[37mGET /search/city/Epinay HTTP/1.1[0m" 200 -
+2021-02-19 16:03:42,589 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:03:42,638 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:03:42,915 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:03:42,916 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:03:44,117 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:03:44,185 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:03:44,408 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:03:44,409 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:03:45,429 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:03:45,473 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:03:45,748 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:03:45,749 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:03:51,404 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:03:51] "[37mGET /search/city/Epinay HTTP/1.1[0m" 200 -
+2021-02-19 16:04:25,048 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:04:25,100 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:04:25,343 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:04:25,348 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:04:27,368 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:04:27,411 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:04:27,656 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:04:27,657 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:04:28,671 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:04:28,725 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:04:29,030 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:04:29,032 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:04:31,057 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:04:31,103 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:04:31,339 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:04:31,341 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:04:32,358 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:04:32,402 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:04:32,671 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:04:32,673 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:04:37,722 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:04:37,768 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:04:38,013 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:04:38,014 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:04:57,607 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 16:04:57] "[33mGET /search/city/ HTTP/1.1[0m" 404 -
+2021-02-19 16:05:03,292 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:05:03] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-19 16:05:03,405 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 16:05:03] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 16:05:03,419 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 16:05:03] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 16:05:03,421 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 16:05:03] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 16:05:03,670 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 16:05:03] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:05:03,842 INFO werkzeug Thread-8 : 172.17.0.1 - - [19/Feb/2021 16:05:03] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:05:39,445 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:05:39,489 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:05:39,730 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:05:39,732 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:05:40,752 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:05:40,805 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:05:41,103 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:05:41,105 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:05:58,216 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:05:58,269 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:05:58,538 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:05:58,540 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:06:00,569 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:06:00,632 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:06:01,054 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:06:01,055 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:06:14,575 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:06:14] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-19 16:06:14,666 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 16:06:14] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 16:06:14,667 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 16:06:14] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 16:06:14,673 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 16:06:14] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 16:06:14,998 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 16:06:14] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:07:16,628 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:07:16,692 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:07:16,931 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:07:16,932 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:07:23,991 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:07:24,077 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:07:24,418 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:07:24,419 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:07:28,742 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:07:28] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-19 16:13:07,036 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:13:07,101 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:13:07,371 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:13:07,372 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:13:08,391 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:13:08,445 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:13:08,713 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:13:08,714 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:13:10,753 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:13:10,813 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:13:11,085 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:13:11,086 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:13:15,283 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:13:15] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-19 16:13:15,387 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 16:13:15] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 16:13:15,405 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 16:13:15] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 16:13:15,408 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 16:13:15] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 16:13:15,663 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 16:13:15] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:13:15,751 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 16:13:15] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:13:32,237 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:13:32,284 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:13:32,573 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:13:32,574 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:13:33,596 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:13:33,676 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:13:34,091 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:13:34,093 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:13:37,123 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:13:37] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-19 16:13:37,221 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 16:13:37] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 16:13:37,225 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 16:13:37] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 16:13:37,230 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 16:13:37] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 16:13:37,453 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 16:13:37] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:13:47,195 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:13:47,271 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:13:47,587 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:13:47,589 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:13:48,603 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:13:48,676 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:13:49,051 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:13:49,052 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:13:54,768 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:13:54] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-19 16:13:54,876 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 16:13:54] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 16:13:54,882 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 16:13:54] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 16:13:54,886 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 16:13:54] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 16:13:55,094 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 16:13:55] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:13:57,244 INFO werkzeug Thread-7 : 172.17.0.1 - - [19/Feb/2021 16:13:57] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-19 16:13:57,355 INFO werkzeug Thread-8 : 172.17.0.1 - - [19/Feb/2021 16:13:57] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 16:13:57,365 INFO werkzeug Thread-9 : 172.17.0.1 - - [19/Feb/2021 16:13:57] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 16:13:57,367 INFO werkzeug Thread-10 : 172.17.0.1 - - [19/Feb/2021 16:13:57] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 16:13:57,553 INFO werkzeug Thread-11 : 172.17.0.1 - - [19/Feb/2021 16:13:57] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:14:07,187 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:14:07,255 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:14:07,518 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:14:07,520 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:14:13,049 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:14:13] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-19 16:14:13,169 INFO werkzeug Thread-3 : 172.17.0.1 - - [19/Feb/2021 16:14:13] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-19 16:14:13,178 INFO werkzeug Thread-4 : 172.17.0.1 - - [19/Feb/2021 16:14:13] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-19 16:14:13,192 INFO werkzeug Thread-5 : 172.17.0.1 - - [19/Feb/2021 16:14:13] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-19 16:14:13,371 INFO werkzeug Thread-6 : 172.17.0.1 - - [19/Feb/2021 16:14:13] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-19 16:14:55,902 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:14:55,949 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:14:56,258 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:14:56,259 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:14:57,280 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:14:57,351 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:14:57,713 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:14:57,714 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:15:03,893 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:15:03] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-19 16:16:13,249 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:16:13,322 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:16:13,625 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:16:13,626 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:16:19,678 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:16:19,722 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:16:20,003 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:16:20,005 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:16:28,071 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:16:28,133 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:16:28,403 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:16:28,404 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:16:29,425 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:16:29,484 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:16:29,735 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:16:29,739 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:16:30,755 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:16:30,844 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:16:31,216 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:16:31,217 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:16:50,402 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:16:50,446 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:16:50,727 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:16:50,729 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:16:51,743 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:16:51,805 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:16:52,124 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:16:52,125 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:16:53,143 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:16:53,195 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:16:53,443 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:16:53,444 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:17:00,465 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:17:00] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-19 16:18:16,025 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-19 16:18:16,086 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-19 16:18:16,369 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-19 16:18:16,370 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-19 16:18:31,867 INFO werkzeug Thread-2 : 172.17.0.1 - - [19/Feb/2021 16:18:31] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 05:05:25,010 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:05:25,062 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:05:25,407 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:05:25,410 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:05:28,441 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:05:28,487 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:05:28,671 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:05:28,673 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:06:59,807 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 05:06:59] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 05:27:15,551 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 05:27:15] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 05:38:32,767 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:38:32,851 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:38:33,115 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:38:33,117 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:38:39,473 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 05:38:39] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 05:38:50,838 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 05:38:50] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 05:41:28,354 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 05:41:28] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 05:43:46,212 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:43:46,258 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:43:46,467 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:43:46,468 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:44:08,618 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:44:08,659 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:44:08,871 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:44:08,872 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:44:15,927 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:44:16,000 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:44:16,321 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:44:16,323 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:44:18,347 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:44:18,405 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:44:18,716 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:44:18,717 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:44:27,977 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 05:44:27] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 05:44:28,086 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 05:44:28] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 05:44:28,091 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 05:44:28] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 05:44:28,108 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 05:44:28] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 05:44:28,336 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 05:44:28] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 05:44:28,495 INFO werkzeug Thread-7 : 172.17.0.1 - - [20/Feb/2021 05:44:28] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 05:44:51,926 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:44:51,966 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:44:52,215 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:44:52,216 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:46:08,753 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:46:08,821 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:46:09,089 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:46:09,089 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:46:12,118 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:46:12,192 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:46:12,433 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:46:12,434 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:46:40,709 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 05:46:40] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 05:58:55,638 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:58:55,680 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:58:55,941 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:58:55,942 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:59:02,996 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 05:59:03,051 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 05:59:03,320 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 05:59:03,321 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 05:59:17,518 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 05:59:17] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 05:59:17,611 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 05:59:17] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 05:59:17,615 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 05:59:17] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 05:59:17,621 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 05:59:17] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 05:59:17,854 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 05:59:17] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 05:59:17,946 INFO werkzeug Thread-7 : 172.17.0.1 - - [20/Feb/2021 05:59:17] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 06:04:00,490 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:04:00,545 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:04:00,771 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:04:00,772 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:04:02,795 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:04:02,850 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:04:03,238 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:04:03,239 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:04:06,764 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:04:06] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 06:05:08,706 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:05:08,777 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:05:09,156 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:05:09,157 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:05:12,263 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 06:05:12] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 06:05:14,332 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:05:14] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 06:05:20,236 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:05:20,282 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:05:20,526 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:05:20,527 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:05:21,541 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:05:21,583 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:05:21,801 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:05:21,802 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:05:25,837 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:05:25,886 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:05:26,163 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:05:26,164 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:05:29,933 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:05:29] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 06:08:43,607 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-20 06:08:43,660 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:08:43,924 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:08:43,925 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:09:50,402 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:09:50,439 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:09:50,689 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:09:50,690 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:31:49,947 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:31:49] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 06:32:13,399 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:32:13,445 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:32:13,707 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:32:13,708 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:32:22,863 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:32:22] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 06:36:13,565 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:36:13,628 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:36:13,821 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:36:13,822 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:41:59,594 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:41:59,634 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:41:59,843 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:41:59,843 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:42:00,865 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:42:00,904 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:42:01,119 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:42:01,120 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:42:02,136 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:42:02,214 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:42:02,506 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:42:02,506 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:42:09,880 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:42:09] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 06:42:09,988 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 06:42:09] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 06:42:09,992 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 06:42:09] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 06:42:09,999 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 06:42:09] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 06:42:10,246 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 06:42:10] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 06:42:10,319 INFO werkzeug Thread-7 : 172.17.0.1 - - [20/Feb/2021 06:42:10] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 06:45:01,670 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:45:01,718 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:45:01,912 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:45:01,912 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:45:03,932 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:45:03,970 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:45:04,168 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:45:04,168 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:45:05,186 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:45:05,232 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:45:05,451 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:45:05,451 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:45:07,475 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:45:07,512 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:45:07,711 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:45:07,712 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:45:12,754 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:45:12,792 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:45:12,975 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:45:12,976 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:45:13,998 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:45:14,060 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:45:14,278 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:45:14,279 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:45:18,606 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:45:18] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 06:45:18,727 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 06:45:18] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 06:45:18,736 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 06:45:18] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 06:45:18,754 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 06:45:18] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 06:45:18,977 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 06:45:18] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 06:45:48,550 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:45:48,605 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:45:48,853 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:45:48,854 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:45:49,871 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:45:49,952 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:45:50,316 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:45:50,317 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:45:53,565 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:45:53] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 06:45:53,674 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 06:45:53] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 06:45:53,686 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 06:45:53] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 06:45:53,691 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 06:45:53] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 06:45:53,922 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 06:45:53] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 06:47:14,872 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:47:14,925 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:47:15,139 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:47:15,139 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:47:31,263 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:47:31,303 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:47:31,496 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:47:31,497 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:47:34,530 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:47:34,588 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:47:34,862 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:47:34,863 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:47:38,674 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:47:38] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 06:47:38,771 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 06:47:38] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 06:47:38,780 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 06:47:38] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 06:47:38,782 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 06:47:38] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 06:47:38,972 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 06:47:38] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 06:50:04,353 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:50:04,412 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:50:04,648 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:50:04,648 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:50:07,682 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:50:07,722 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:50:07,910 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:50:07,910 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:50:16,941 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:50:16] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 06:50:17,054 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 06:50:17] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 06:50:17,058 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 06:50:17] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 06:50:17,062 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 06:50:17] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 06:50:17,255 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 06:50:17] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 06:51:27,463 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:51:27,531 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:51:27,854 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:51:27,856 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:52:33,260 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:52:33,301 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:52:33,539 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:52:33,540 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:52:34,560 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:52:34,601 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:52:34,814 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:52:34,814 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:52:48,909 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:52:48,965 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:52:49,320 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:52:49,321 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:52:52,870 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:52:52] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 06:52:52,975 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 06:52:52] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 06:52:52,977 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 06:52:52] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 06:52:52,998 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 06:52:52] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 06:52:53,235 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 06:52:53] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 06:56:11,671 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:56:11,718 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:56:11,900 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:56:11,901 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:56:13,933 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:56:13,991 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:56:14,239 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:56:14,241 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:56:19,918 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:56:19] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 06:56:20,023 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 06:56:20] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 06:56:20,047 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 06:56:20] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 06:56:20,051 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 06:56:20] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 06:56:20,246 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 06:56:20] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 06:58:21,205 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:58:21,255 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:58:21,514 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:58:21,515 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:58:22,554 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:58:22,596 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:58:22,803 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:58:22,804 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:58:31,876 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:58:31,922 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:58:32,159 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:58:32,160 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:58:58,364 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:58:58,411 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:58:58,661 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:58:58,662 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:59:02,703 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 06:59:02,743 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 06:59:02,931 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 06:59:02,932 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 06:59:07,886 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 06:59:07] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:02:20,810 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 07:02:20] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:23:57,807 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:23:57,854 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:23:58,069 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:23:58,069 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:23:59,083 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:23:59,139 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:23:59,357 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:23:59,358 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:24:05,597 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 07:24:05] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 07:24:05,690 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 07:24:05] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 07:24:05,690 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 07:24:05] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 07:24:05,705 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 07:24:05] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 07:24:05,920 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 07:24:05] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 07:24:05,994 INFO werkzeug Thread-7 : 172.17.0.1 - - [20/Feb/2021 07:24:05] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 07:29:13,768 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:29:13,811 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:29:14,025 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:29:14,026 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:31:22,927 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:31:22,962 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:31:23,182 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:31:23,182 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:31:25,205 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:31:25,243 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:31:25,447 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:31:25,447 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:31:32,974 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 07:31:32] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:35:04,978 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:35:05,018 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:35:05,211 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:35:05,212 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:36:30,894 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:36:30,939 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:36:31,174 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:36:31,175 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:39:04,316 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-20 07:39:04,377 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:39:04,700 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:39:04,702 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:39:45,012 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-20 07:39:45,052 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:39:45,271 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:39:45,273 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:39:47,306 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:39:47,343 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:39:47,565 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:39:47,566 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:39:58,649 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:39:58,704 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:39:58,915 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:39:58,917 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:40:00,939 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:40:00,978 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:40:01,190 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:40:01,191 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:40:27,452 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:40:27,504 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:40:27,703 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:40:27,704 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:40:55,696 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 07:40:55] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:41:00,187 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 07:41:00] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:41:46,283 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-20 07:41:46,336 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:41:46,659 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:41:46,663 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:41:48,920 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 07:41:48] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:45:50,454 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:45:50,504 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:45:50,714 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:45:50,715 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:49:12,193 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:49:12,242 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:49:12,479 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:49:12,481 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:50:00,811 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:50:00,882 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:50:01,258 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:50:01,259 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:50:04,175 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 07:50:04] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:50:30,471 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:50:30,535 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:50:30,776 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:50:30,777 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:50:34,812 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:50:34,853 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:50:35,061 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:50:35,062 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:50:36,077 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:50:36,123 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:50:36,308 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:50:36,309 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:50:37,329 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:50:37,366 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:50:37,563 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:50:37,565 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:50:48,665 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:50:48,724 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:50:48,946 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:50:48,948 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:50:49,964 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:50:50,021 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:50:50,324 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:50:50,326 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:50:54,113 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 07:50:54] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:52:46,122 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:52:46,189 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:52:46,505 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:52:46,506 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:52:56,591 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 07:52:56] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:52:59,233 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 07:52:59] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:53:31,886 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:53:31,958 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:53:32,212 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:53:32,213 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:53:39,269 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:53:39,312 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:53:39,608 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:53:39,612 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:53:47,494 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 07:53:47] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 07:56:00,661 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 07:56:00,751 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 07:56:01,067 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 07:56:01,070 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 07:56:04,379 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 07:56:04] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 08:20:52,155 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/db_connection.py', reloading
+2021-02-20 08:20:52,229 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 08:20:52,531 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 08:20:52,532 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 08:22:09,067 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-20 08:22:09,106 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 08:22:09,315 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 08:22:09,319 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 08:22:10,337 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-20 08:22:10,375 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 08:22:10,561 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 08:22:10,564 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 08:30:10,885 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 08:30:10,924 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:22:12,606 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-20 09:22:12,611 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:22:12,845 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:22:12,846 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:23:49,487 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-20 09:23:49,536 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:23:49,814 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:23:49,815 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:24:26,169 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 09:24:26] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 09:24:26,296 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 09:24:26] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 09:24:26,298 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 09:24:26] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 09:24:26,300 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 09:24:26] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 09:24:26,723 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 09:24:26] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 09:24:26,829 INFO werkzeug Thread-7 : 172.17.0.1 - - [20/Feb/2021 09:24:26] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 09:26:02,718 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:26:02,765 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:26:03,002 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:26:03,002 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:26:05,029 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:26:05,068 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:26:05,320 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:26:05,321 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:26:16,407 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:26:16,457 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:26:16,665 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:26:16,666 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:27:18,116 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:27:18,157 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:27:18,384 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:27:18,384 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:27:39,584 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:27:39,637 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:27:39,927 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:27:39,928 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:27:41,951 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:27:42,027 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:27:42,415 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:27:42,416 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:27:46,545 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 09:27:46] "[35m[1mGET /search/city/Paris HTTP/1.1[0m" 500 -
+2021-02-20 09:27:46,651 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 09:27:46] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 09:27:46,660 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 09:27:46] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 09:27:46,662 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 09:27:46] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 09:27:46,850 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 09:27:46] "[37mGET /search/city/Paris?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 09:28:45,853 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:28:45,913 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:28:46,195 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:28:46,195 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:28:56,272 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:28:56,342 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:28:56,626 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:28:56,627 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:29:00,662 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:29:00,708 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:29:00,959 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:29:00,960 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:29:02,985 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:29:03,051 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:29:03,330 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:29:03,334 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:29:06,983 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 09:29:06] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 09:30:07,767 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:30:07,813 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:30:08,077 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:30:08,077 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:30:51,369 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:30:51,415 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:30:51,769 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:30:51,770 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:30:52,783 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:30:52,823 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:30:53,071 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:30:53,071 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:31:14,217 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:31:14,258 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:31:14,500 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:31:14,501 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:31:21,016 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 09:31:21] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 09:53:53,008 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:53:53,051 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:53:53,267 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:53:53,267 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:56:39,485 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:56:39,532 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:56:39,789 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:56:39,790 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:56:41,810 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:56:41,856 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:56:42,095 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:56:42,095 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:56:43,115 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:56:43,153 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:56:43,390 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:56:43,390 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:56:48,640 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 09:56:48] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 09:57:07,575 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:57:07,625 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:57:07,906 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:57:07,906 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:57:08,927 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:57:08,982 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:57:09,235 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:57:09,237 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:57:10,254 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 09:57:10,296 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 09:57:10,697 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 09:57:10,698 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 09:57:15,346 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 09:57:15] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 10:00:33,302 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 10:00:33] "[37mGET /search/city/Clichy HTTP/1.1[0m" 200 -
+2021-02-20 11:58:00,711 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 11:58:00,766 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 11:58:01,104 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 11:58:01,105 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 11:58:28,305 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 11:58:28,349 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 11:58:28,602 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 11:58:28,603 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 12:00:04,300 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 12:00:04,344 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 12:00:04,605 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 12:00:04,606 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 12:00:10,651 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 12:00:10,706 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 12:00:10,928 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 12:00:10,929 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 12:00:16,287 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 12:00:16,331 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 12:00:16,607 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 12:00:16,607 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 12:00:39,783 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-20 12:00:39,822 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 12:00:40,093 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 12:00:40,094 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 12:00:57,175 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 12:00:57] "[35m[1mGET /search/cp/92 HTTP/1.1[0m" 500 -
+2021-02-20 12:00:57,271 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 12:00:57] "[37mGET /search/cp/92?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 12:00:57,291 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 12:00:57] "[37mGET /search/cp/92?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 12:00:57,294 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 12:00:57] "[37mGET /search/cp/92?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 12:00:57,537 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 12:00:57] "[37mGET /search/cp/92?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 12:00:57,645 INFO werkzeug Thread-7 : 172.17.0.1 - - [20/Feb/2021 12:00:57] "[37mGET /search/cp/92?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 12:02:05,642 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/app.py', reloading
+2021-02-20 12:02:05,713 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 12:02:06,034 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 12:02:06,035 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 12:02:09,473 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 12:02:09] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-20 17:18:46,919 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 17:18:46,961 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 17:18:47,229 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 17:18:47,230 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 17:19:29,134 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 17:19:29] "[37mGET /search/cp/93 HTTP/1.1[0m" 200 -
+2021-02-20 21:01:22,467 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 21:01:22] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-20 21:38:52,639 INFO werkzeug Thread-7 : 172.17.0.1 - - [20/Feb/2021 21:38:52] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-20 21:39:00,733 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 21:39:00] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-20 21:40:08,256 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-20 21:40:08,259 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 21:40:08,488 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 21:40:08,489 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 21:40:15,761 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 21:40:15] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-20 21:41:09,914 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 21:41:09,959 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 21:41:10,187 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 21:41:10,188 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 21:41:15,290 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 21:41:15] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-20 21:41:45,453 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 21:41:45,492 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 21:41:45,734 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 21:41:45,736 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 21:41:50,306 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 21:41:50] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-20 21:43:18,035 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 21:43:18] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-20 21:45:07,062 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 21:45:07,114 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 21:45:07,351 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 21:45:07,351 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 21:45:50,690 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 21:45:50,744 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 21:45:51,001 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 21:45:51,001 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 21:45:58,062 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 21:45:58,112 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 21:45:58,343 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 21:45:58,343 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 21:46:36,647 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 21:46:36,701 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 21:46:36,950 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 21:46:36,951 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 22:23:43,974 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 22:23:43] "[35m[1mGET /search/cp/92 HTTP/1.1[0m" 500 -
+2021-02-20 22:23:44,079 INFO werkzeug Thread-3 : 172.17.0.1 - - [20/Feb/2021 22:23:44] "[37mGET /search/cp/92?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 22:23:44,081 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 22:23:44] "[37mGET /search/cp/92?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 22:23:44,087 INFO werkzeug Thread-5 : 172.17.0.1 - - [20/Feb/2021 22:23:44] "[37mGET /search/cp/92?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 22:23:48,676 INFO werkzeug Thread-6 : 172.17.0.1 - - [20/Feb/2021 22:23:48] "[35m[1mGET /search/cp/75 HTTP/1.1[0m" 500 -
+2021-02-20 22:23:48,792 INFO werkzeug Thread-7 : 172.17.0.1 - - [20/Feb/2021 22:23:48] "[37mGET /search/cp/75?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-02-20 22:23:48,812 INFO werkzeug Thread-8 : 172.17.0.1 - - [20/Feb/2021 22:23:48] "[37mGET /search/cp/75?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-02-20 22:23:48,818 INFO werkzeug Thread-9 : 172.17.0.1 - - [20/Feb/2021 22:23:48] "[37mGET /search/cp/75?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-02-20 22:23:49,040 INFO werkzeug Thread-10 : 172.17.0.1 - - [20/Feb/2021 22:23:49] "[37mGET /search/cp/75?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 22:23:49,146 INFO werkzeug Thread-11 : 172.17.0.1 - - [20/Feb/2021 22:23:49] "[37mGET /search/cp/75?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-02-20 22:26:32,151 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 22:26:32,221 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 22:26:32,503 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 22:26:32,504 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 22:26:35,532 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 22:26:35,584 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 22:26:35,822 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 22:26:35,822 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 22:26:36,840 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 22:26:36,878 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 22:26:37,104 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 22:26:37,105 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 22:26:45,603 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 22:26:45] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-20 22:27:05,297 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-20 22:27:05,347 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-20 22:27:05,693 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-20 22:27:05,694 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-20 22:27:08,806 INFO werkzeug Thread-2 : 172.17.0.1 - - [20/Feb/2021 22:27:08] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-20 22:28:25,620 INFO werkzeug Thread-4 : 172.17.0.1 - - [20/Feb/2021 22:28:25] "[37mGET /search/cp/94 HTTP/1.1[0m" 200 -
+2021-02-21 06:44:51,337 INFO werkzeug Thread-6 : 172.17.0.1 - - [21/Feb/2021 06:44:51] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 06:45:40,323 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-21 06:45:40,325 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 06:45:40,540 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 06:45:40,541 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 06:46:05,287 INFO werkzeug Thread-2 : 172.17.0.1 - - [21/Feb/2021 06:46:05] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:23:38,520 INFO werkzeug Thread-4 : 172.17.0.1 - - [21/Feb/2021 07:23:38] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:23:42,005 INFO werkzeug Thread-5 : 172.17.0.1 - - [21/Feb/2021 07:23:42] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:24:12,663 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-21 07:24:12,665 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:24:12,891 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:24:12,892 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:24:21,756 INFO werkzeug Thread-3 : 172.17.0.1 - - [21/Feb/2021 07:24:21] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:28:35,763 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:28:35,808 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:28:36,081 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:28:36,081 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:28:50,182 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:28:50,233 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:28:50,491 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:28:50,492 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:28:52,514 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:28:52,565 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:28:52,841 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:28:52,842 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:28:53,871 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:28:53,947 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:28:54,262 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:28:54,263 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:29:12,208 INFO werkzeug Thread-3 : 172.17.0.1 - - [21/Feb/2021 07:29:12] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:29:21,055 INFO werkzeug Thread-4 : 172.17.0.1 - - [21/Feb/2021 07:29:21] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:32:04,672 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:32:04,719 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:32:04,968 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:32:04,968 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:32:06,993 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:32:07,035 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:32:07,279 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:32:07,281 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:32:10,306 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:32:10,358 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:32:10,584 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:32:10,584 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:32:14,619 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:32:14,660 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:32:14,872 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:32:14,873 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:32:24,954 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:32:24,995 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:32:25,228 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:32:25,229 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:32:30,878 INFO werkzeug Thread-3 : 172.17.0.1 - - [21/Feb/2021 07:32:30] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:33:25,626 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:33:25,673 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:33:25,954 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:33:25,954 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:33:32,005 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:33:32,045 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:33:32,272 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:33:32,274 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:33:33,291 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:33:33,336 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:33:33,597 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:33:33,597 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:33:34,617 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:33:34,668 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:33:34,990 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:33:34,996 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:33:39,505 INFO werkzeug Thread-3 : 172.17.0.1 - - [21/Feb/2021 07:33:39] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:33:40,820 INFO werkzeug Thread-2 : 172.17.0.1 - - [21/Feb/2021 07:33:40] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:34:11,252 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:34:11,321 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:34:11,619 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:34:11,619 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:34:13,648 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:34:13,690 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:34:13,941 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:34:13,942 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:34:16,971 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:34:17,013 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:34:17,272 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:34:17,272 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:34:18,287 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:34:18,355 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:34:18,702 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:34:18,703 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:34:23,748 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:34:23,837 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:34:24,179 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:34:24,180 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:34:27,942 INFO werkzeug Thread-3 : 172.17.0.1 - - [21/Feb/2021 07:34:27] "[37mGET /search/cp/92 HTTP/1.1[0m" 200 -
+2021-02-21 07:34:34,726 INFO werkzeug Thread-2 : 172.17.0.1 - - [21/Feb/2021 07:34:34] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 07:35:27,614 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:35:27,658 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:35:27,896 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:35:27,897 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:35:28,923 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:35:28,971 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:35:29,240 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:35:29,241 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:35:31,553 INFO werkzeug Thread-3 : 172.17.0.1 - - [21/Feb/2021 07:35:31] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 07:37:37,106 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:37:37,151 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:37:37,385 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:37:37,385 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:37:38,410 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:37:38,460 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:37:38,714 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:37:38,715 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:37:40,737 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:37:40,783 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:37:41,017 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:37:41,017 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:37:42,033 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:37:42,101 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:37:42,395 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:37:42,395 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:37:47,778 INFO werkzeug Thread-3 : 172.17.0.1 - - [21/Feb/2021 07:37:47] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 07:40:32,640 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:40:32,708 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:40:33,030 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:40:33,031 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:40:40,514 INFO werkzeug Thread-2 : 172.17.0.1 - - [21/Feb/2021 07:40:40] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 07:42:28,839 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:42:28,893 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:42:29,143 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:42:29,144 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:42:31,171 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:42:31,253 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:42:31,610 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:42:31,611 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 07:42:35,183 INFO werkzeug Thread-2 : 172.17.0.1 - - [21/Feb/2021 07:42:35] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 07:44:20,344 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 07:44:20,403 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 07:44:20,643 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 07:44:20,644 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:00:36,991 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 08:00:37,054 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 08:00:37,364 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 08:00:37,365 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:00:40,816 INFO werkzeug Thread-2 : 172.17.0.1 - - [21/Feb/2021 08:00:40] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 08:01:26,722 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 08:01:26,771 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 08:01:27,058 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 08:01:27,059 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:01:28,085 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 08:01:28,128 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 08:01:28,401 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 08:01:28,402 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:01:34,631 INFO werkzeug Thread-3 : 172.17.0.1 - - [21/Feb/2021 08:01:34] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 08:02:09,885 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 08:02:09,934 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 08:02:10,179 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 08:02:10,180 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:02:19,249 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 08:02:19,293 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 08:02:19,619 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 08:02:19,620 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:08:24,259 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 08:08:24,301 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 08:08:24,565 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 08:08:24,565 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:08:26,589 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 08:08:26,630 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 08:08:26,868 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 08:08:26,868 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:08:40,965 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 08:08:41,027 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 08:08:41,285 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 08:08:41,285 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:08:54,815 INFO werkzeug Thread-2 : 172.17.0.1 - - [21/Feb/2021 08:08:54] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 08:08:56,815 INFO werkzeug Thread-3 : 172.17.0.1 - - [21/Feb/2021 08:08:56] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 08:09:20,594 INFO werkzeug MainThread :  * Detected change in '/my_flask_app/functions_db.py', reloading
+2021-02-21 08:09:20,666 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 08:09:21,075 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 08:09:21,075 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 08:09:24,500 INFO werkzeug Thread-2 : 172.17.0.1 - - [21/Feb/2021 08:09:24] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 09:40:29,554 INFO werkzeug Thread-5 : 172.17.0.1 - - [21/Feb/2021 09:40:29] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 09:40:32,179 INFO werkzeug Thread-4 : 172.17.0.1 - - [21/Feb/2021 09:40:32] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-21 09:41:04,059 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-21 09:41:04,062 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-21 09:41:04,312 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-21 09:41:04,314 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-21 09:41:10,946 INFO werkzeug Thread-2 : 172.17.0.1 - - [21/Feb/2021 09:41:10] "[37mGET /search/cp/75 HTTP/1.1[0m" 200 -
+2021-02-22 09:43:33,184 INFO werkzeug Thread-5 : 172.17.0.1 - - [22/Feb/2021 09:43:33] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-22 09:43:37,239 INFO werkzeug Thread-7 : 172.17.0.1 - - [22/Feb/2021 09:43:37] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-22 09:44:17,885 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-22 09:44:17,891 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-22 09:44:18,412 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-22 09:44:18,414 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-22 09:44:26,422 INFO werkzeug Thread-3 : 172.17.0.1 - - [22/Feb/2021 09:44:26] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-23 08:59:46,192 INFO werkzeug Thread-4 : 172.17.0.1 - - [23/Feb/2021 08:59:46] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-23 08:59:50,275 INFO werkzeug Thread-6 : 172.17.0.1 - - [23/Feb/2021 08:59:50] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-23 08:59:54,415 INFO werkzeug Thread-7 : 172.17.0.1 - - [23/Feb/2021 08:59:54] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-23 09:00:29,746 INFO werkzeug Thread-9 : 172.17.0.1 - - [23/Feb/2021 09:00:29] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-23 09:00:32,559 INFO werkzeug Thread-10 : 172.17.0.1 - - [23/Feb/2021 09:00:32] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-23 09:00:50,973 INFO werkzeug Thread-12 : 172.17.0.1 - - [23/Feb/2021 09:00:50] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-23 09:01:02,412 INFO werkzeug Thread-14 : 172.17.0.1 - - [23/Feb/2021 09:01:02] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-23 09:08:01,895 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-23 09:08:01,918 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-23 09:08:02,594 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-23 09:08:02,597 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
+2021-02-23 09:08:09,695 INFO werkzeug Thread-2 : 172.17.0.1 - - [23/Feb/2021 09:08:09] "[37mGET /search/city/Paris HTTP/1.1[0m" 200 -
+2021-02-24 03:41:26,368 INFO werkzeug MainThread :  * Running on http://0.0.0.0:3005/ (Press CTRL+C to quit)
+2021-02-24 03:41:26,377 INFO werkzeug MainThread :  * Restarting with stat
+2021-02-24 03:41:26,620 WARNING werkzeug MainThread :  * Debugger is active!
+2021-02-24 03:41:26,624 INFO werkzeug MainThread :  * Debugger PIN: 217-601-045
