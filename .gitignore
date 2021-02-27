@@ -1,0 +1,4 @@
+*.log  				#j exclue les fichiers logs
+*.json 				#j exclue les fichiers json
+__pycache__			#j exclue  les fichiers compile, code compilé, tels que .o, .pyc et les fichiers .class 
+logs				# le modèle correspondra à la fois aux fichiers et au contenu des répertoires portant ce nom. Ici les répertoires et les fichiers nommés logs sont ignorés

@@ -5,7 +5,7 @@ import datetime
 
 import mysql.connector
 
-class conn_bd:
+class ConnectionBDD:
     def __init__(self):
         #, dbName, user, passwd, host
         #"Établissement de la connexion - Création du curseur"
@@ -40,12 +40,12 @@ class conn_bd:
             self.cnx.commit() #valide la transaction
                 
             print(mon_cursor.rowcount, "record inserted.\n")           
-        
+
 
         except mysql.connector.Error as err:
             print("Something went wrong, un erreur se produit : {}".format(err))
 
-    def effacer_donnes(self):
+    def effacer_tous_annonces(self):
         
         try:
             mon_cursor = self.cnx.cursor()
@@ -74,3 +74,10 @@ class conn_bd:
 
         except mysql.connector.Error as err:
             print("Something went wrong, un erreur se produit : {}".format(err))
+    
+    def envoyer_derniersAnnonces(self):
+        #il faudra verifier avec le dernier annonce en BDD si il y a eu des nouveaux
+
+        liste_annonces=[]
+
+        return liste_annonces

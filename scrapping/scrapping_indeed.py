@@ -12,7 +12,9 @@ class indeed:
     def __init__(self):
         logging.info('on initialise la classe indeed')
         
-        self.url= 'https://fr.indeed.com/emplois?q=alternance+d%C3%A9veloppeur&l=%C3%8Ele-de-France'
+        # self.url= 'https://fr.indeed.com/emplois?q=alternance+cloud&l=%C3%8Ele-de-France'
+        # self.url= 'https://fr.indeed.com/emplois?q=alternance+d%C3%A9veloppeur&l=%C3%8Ele-de-France'
+        self.url='https://fr.indeed.com/emplois?q=alternance+developpeur+cloud&l=%C3%8Ele-de-France'
         
         logging.info('on recupere le contenur de l url passé comme parametre du methode get requests')
         self.page = requests.get(self.url)
@@ -36,7 +38,7 @@ class indeed:
         self.href_list=[]
 
         for link in self.a_links:
-            href= link.get('href')
+            href= link.get('href').strip()
             title = link.get('title')
             #print(href, link)
             if title != None:
@@ -65,7 +67,7 @@ class indeed:
 
     
 
-    def find_salary(self):
+    """ def find_salary(self): #Maria
         salary_list = []
         logging.info("getting salaries: start")
         try:
@@ -83,7 +85,7 @@ class indeed:
         
         print(salary_list)
         logging.info("getting salaries: end")
-        return salary_list
+        return salary_list """
         
 
     def recupererLocalisations(self):
@@ -110,18 +112,19 @@ class indeed:
 
     def recupereSalaire(self, donnes):
         #traitement de text pour avoir le salaire avec les donnes envoye
-        position= donnes.find('Salaire')#ça commence à zero
-        print('position ==> ',position)
+        position= donnes.find('Salaire')#il commence à zero
+        #print('position ==> ',position)
 
         a_partir=donnes[position:] #texte apres salaire
         position_salaire= a_partir.find(':')
 
         recupererSalaire=a_partir[(position_salaire + 1):]
-
+        #on cherche les mots par an, par mois et €, pour avoir le montant du salaire propose
         position_an= recupererSalaire.find('par an')
         position_mois= recupererSalaire.find('par mois')
         position_euro= recupererSalaire.find('€')
 
+        #check if we found "par an" / verifie si on a trouvé "par an"
         if position_an != -1:
             salaire=recupererSalaire[:position_an]+"par an"
         elif position_mois != -1:
@@ -149,10 +152,13 @@ class indeed:
             #comment c est effimere je cree des variables locales
             page = requests.get(lien) #je recupere la page de l'offre
             #print(page)#200 OK       
-            soup = BeautifulSoup(page.content, 'html.parser') #'lxml')
+            soup = BeautifulSoup(page.content, 'html.parser') #''lxml')
             
-            # taking the div with all results
+            # taking the div with all results jobDescriptionText
             results = soup.find(id='jobDescriptionText') #soup.select('div>div#vjs-desc')
+            #jobDescriptionText contenu 'html.parser' <div class="jobsearch-jobDescriptionText" id="jobDescriptionText"><div><div><h2 class="jobSectionHeader"><b>A propos de SQLI
+            #print('jobDescriptionText contenu ',results, ' type: ',type(results))
+            
             description=results.text
             if 'Salaire' in description: 
                 self.liste_salaire.append(self.recupereSalaire(description))
@@ -177,8 +183,8 @@ class indeed:
         resultat_description = self.recupererDescription()
         resultat_salaire = self.liste_salaire #comment des fois c est indiqué ou non, je le define dans recupererDescription()
 
-        test_salaire =self.find_salary()
-        print(test_salaire)
+        """ test_salaire =self.find_salary()
+        print(test_salaire) """
         #print('href_list==> ',resultat_href,' \n title_list==>', resultat_titre,'\nlocation_list ==>',resultat_localisation,' \ndate_list ==> ',resultat_date)
         #print('len resultat_href ==>', len(resultat_href),'\nlen(resultat_titre)==>',len(resultat_titre) ,'\nlen resultat_date ==>', len(resultat_date),'\nlen resultat_localisation==>', len(resultat_localisation))
 
