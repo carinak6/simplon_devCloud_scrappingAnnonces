@@ -20,7 +20,7 @@ class GestionEmail():
 
         # on rentre les informations sur notre adresse e-mail
         self.email_address = 'mariacardelli996@gmail.com'
-        self.email_password = 'kary93800EPINAY'
+        self.email_password = 'kary93800ARG'
 
         # on rentre les informations sur le destinataire
         self.email_receiver = 'kassiscarina@gmail.com'

@@ -8,32 +8,42 @@ import lxml.html
 
 import mysql.connector
 
-class indeed:
+class Indeed:
     def __init__(self):
-        logging.info('on initialise la classe indeed')
+        logging.info('on initialise la classe indeed - Start')
         
-        # self.url= 'https://fr.indeed.com/emplois?q=alternance+cloud&l=%C3%8Ele-de-France'
-        # self.url= 'https://fr.indeed.com/emplois?q=alternance+d%C3%A9veloppeur&l=%C3%8Ele-de-France'
-        self.url='https://fr.indeed.com/emplois?q=alternance+developpeur+cloud&l=%C3%8Ele-de-France'
+        #self.url= 'https://fr.indeed.com/emplois?q=alternance+cloud&l=%C3%8Ele-de-France'
+        self.url= 'https://fr.indeed.com/emplois?q=alternance+d%C3%A9veloppeur&l=%C3%8Ele-de-France'
         
-        logging.info('on recupere le contenur de l url passé comme parametre du methode get requests')
+        #original
+        #self.url='https://fr.indeed.com/emplois?q=alternance+developpeur+cloud&l=%C3%8Ele-de-France'
+        
+        logging.info('on recupere le contenur de l url passé comme parametre du methode get requests url :'+self.url)
         self.page = requests.get(self.url)
-        print(self.page)#200 ?
+        reponse_get =self.page#200 
+        print(reponse_get)
+        logging.info('Connexion reussi ? reponse '+str(reponse_get))
 
         logging.info('on utilise la librerie BeautifulSoup pour recuperer le contenu de la page')        
         self.soup = BeautifulSoup(self.page.content, 'html.parser') 
         #un analyseur HTML; c est le parametre original; 'lxml') un analyseur XML
 
+        logging.info('on prends la div avec tous les annonces, l\'id est resultsCol') 
         # taking the div with all results
         self.results = self.soup.find(id='resultsCol')
+        #print('type de results ==>',type(self.results)) #<class 'bs4.element.Tag'>
 
-        #print(results)
         #je le genere ici parce que j'ai besoin dans 2 autres methodes
+        logging.info('on recupere le lien de la balise a avec les classes jobtitle et turnstileLink') 
         self.a_links = self.results.findAll("a", {"class": ['jobtitle', 'turnstileLink']})
         #print('self.a_links ==>',self.a_links)
+        #print('type self.a_links ==>',type(self.a_links)) #<class 'bs4.element.ResultSet'>
 
+        logging.info('on initialise la classe indeed - End')
 
     def recuperationLien(self):
+        logging.info('Execution de la methode recuperationLien(indeed) - Start')
+
         #self.liens = self.a_links
         self.href_list=[]
 
@@ -46,9 +56,16 @@ class indeed:
                 self.href_list.append(href)
 
         #print(href_list)
+        logging.info('Liste des liens trouvés : '+ str(self.href_list))
+
+        logging.info('Execution de la methode recuperationLien(indeed) - End')
+
         return self.href_list
 
+
     def recuperationTitle(self):
+        logging.info('Execution de la methode recuperationTitle(indeed) - Start')
+
         #self.title = self.a_links
         title_list = []
 
@@ -60,6 +77,11 @@ class indeed:
             print('_______________') """
         
         #print(title_list)
+
+        logging.info('Liste de title trouvé ' + str(title_list))
+
+        logging.info('Execution de la methode recuperationTitle(indeed) - End')
+
         return title_list
 
 
@@ -67,7 +89,7 @@ class indeed:
 
     
 
-    """ def find_salary(self): #Maria
+    """ def find_salary(self): #Maria  ça marche pas pour moi, il retourne la meme quantite des salaires 3
         salary_list = []
         logging.info("getting salaries: start")
         try:
@@ -89,6 +111,9 @@ class indeed:
         
 
     def recupererLocalisations(self):
+        logging.info('Execution de la methode recupererLocalisations(indeed) - Start')
+
+        logging.info('On cherche dans le self.results un div,span ==> class : location ')
         self.locations_resultat = self.results.find_all(['div', 'span'], {'class' : 'location'})
         
         location_list=[]    
@@ -97,10 +122,17 @@ class indeed:
             """ print(location.text)
             print('_______________') """
 
+        logging.info('liste de location des annonces : '+str(location_list))
+
+        logging.info('Execution de la methode recupererLocalisations(indeed) - End')
         return location_list
 
     
     def recupereDate(self):
+        logging.info('Execution de la methode recupereDate(indeed) - Start')
+        
+        logging.info('on recupere les date ')
+
         self.date_result = self.results.findAll('span', {'class': 'date'})
         date_list=[]
         # finds when annonce posted   
@@ -108,9 +140,15 @@ class indeed:
             date_list.append(date.text)
             """ print('\ndate.text ==>',date.text)
             print('********') """
+
+        logging.info('liste des date pour les annonces : '+str(date_list))
+
+        logging.info('Execution de la methode recupereDate(indeed) - End')
         return date_list
 
     def recupereSalaire(self, donnes):
+        logging.info('Execution de la methode recupereSalaire(indeed) - Start')
+
         #traitement de text pour avoir le salaire avec les donnes envoye
         position= donnes.find('Salaire')#il commence à zero
         #print('position ==> ',position)
@@ -139,14 +177,22 @@ class indeed:
         print('position_retour ==> ',position_euro)        
         print('a partir ==>',a_partir)
         print('salaire returné : ',salaire,'\n') """
+
+        logging.info('salaire retourné : '+ salaire)
+
+        logging.info('Execution de la methode recupereSalaire(indeed) - End')
         return salaire
 
     def recupererDescription(self): 
+        logging.info('Execution de la methode recupererDescription(indeed) - Start')
+
+        logging.info('on recuperera la liste des salaires et la liste des description')
 
         #declarer un attribute avec le salaire
         self.liste_salaire=[]
         description_list=[] 
         
+        logging.info('on recuperera la liste des description en allant sur chaque lien des annonces et aussi les salaires')
         for lien in self.href_list:
 
             #comment c est effimere je cree des variables locales
@@ -160,6 +206,7 @@ class indeed:
             #print('jobDescriptionText contenu ',results, ' type: ',type(results))
             
             description=results.text
+            #on verifie si le mot salaire c est trouve dans la decription
             if 'Salaire' in description: 
                 self.liste_salaire.append(self.recupereSalaire(description))
             else:
@@ -171,10 +218,17 @@ class indeed:
 
 
         #print('*************************** \n len==>',len(description_list), '\nresultats description==>', description_list)
+        logging.info('liste des salaires '+str(self.liste_salaire) +' et la liste des description :'+str(description_list))
+        
+        logging.info('Execution de la methode recupererDescription(indeed) - End')
 
         return description_list
     
     def generateur_tuples(self):
+        logging.info('Execution de la methode generateur_tuples(indeed) - Start')
+
+        logging.info('J\'execute les differentes methodes de la classe pour creer les tuples de chaque annonce')
+
         #TODO je pourrai pas faire de retur et utiliser les variables self
         resultat_href = self.recuperationLien() 
         resultat_titre = self.recuperationTitle()
@@ -186,7 +240,7 @@ class indeed:
         """ test_salaire =self.find_salary()
         print(test_salaire) """
         #print('href_list==> ',resultat_href,' \n title_list==>', resultat_titre,'\nlocation_list ==>',resultat_localisation,' \ndate_list ==> ',resultat_date)
-        #print('len resultat_href ==>', len(resultat_href),'\nlen(resultat_titre)==>',len(resultat_titre) ,'\nlen resultat_date ==>', len(resultat_date),'\nlen resultat_localisation==>', len(resultat_localisation))
+        print('len resultat_href ==>', len(resultat_href),'\nlen(resultat_titre)==>',len(resultat_titre) ,'\nlen resultat_date ==>', len(resultat_date),'\nlen resultat_localisation==>', len(resultat_localisation))
 
         tailleLists = len(resultat_localisation) #len(resultat_titre) out of range
         
@@ -197,7 +251,10 @@ class indeed:
         #********* generation des touples ***********
         for x in range(tailleLists): 
             listResultat.append((resultat_titre[x],resultat_description[x], resultat_date[x],resultat_salaire[x],resultat_localisation[x],1, date_actuel, resultat_href[x]))
-                
+
+        logging.info('La liste des tuples : '+str(listResultat))
+
+        logging.info('Execution de la methode generateur_tuples(indeed) - End')                
         return listResultat
     
     
