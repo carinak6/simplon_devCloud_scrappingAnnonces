@@ -14,7 +14,7 @@ Application qui envoie par email les dernières annonces d’alternance
 * Logs 
 * Tests Unitaires
 
-##Exercice en etat de construction
+## Exercice en etat de construction
 
 ## A venir:
 * Ajouter un cron pour envoyer un email avec les derniers annonces toutes les heures
