@@ -1,4 +1,4 @@
-# Scrapping des Annonces d'offre d'alternance
+# Scrapping des Annonces d'offres d'alternance
 Projet créé dans un contexte de formation Développeur Cloud avec Simplon.io
 
 Application qui envoie par email les dernières annonces d’alternance
