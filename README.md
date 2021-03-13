@@ -18,4 +18,4 @@ Application qui envoie par email les dernières annonces d’alternance
 
 ## A venir:
 * Ajouter un cron pour envoyer un email avec les derniers annonces toutes les heures
-* Ajoute de docker-compose
+* Ajoute de docker et docker-compose
